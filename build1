@@ -1,0 +1,4 @@
+cd /home
+ls -ltr
+touch sri1 
+
